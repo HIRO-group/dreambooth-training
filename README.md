@@ -32,7 +32,7 @@ cd examples/dreambooth
 pip install -U -r requirements.txt
 
 # Login to Hugging Face
-huggingface-cli login --token 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
+huggingface-cli login --token your-token
 
 export MODEL_NAME="CompVis/stable-diffusion-v1-4"
 export INSTANCE_DIR="valid-warehouse"
