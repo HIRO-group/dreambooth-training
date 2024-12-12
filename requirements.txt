@@ -1,0 +1,5 @@
+gymnasium==0.29.1
+pyglet==1.5.29
+rware==2.0.0
+pyvirtualdisplay==3.0
+python-opengl==0.0.5
